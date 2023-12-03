@@ -1,7 +1,7 @@
 <?php
 // Replace 'your_username' and 'your_password' with the actual username and password
-$validUsername = 'Admin';
-$validPassword = 'Cob0205!';
+$validUsername = 'RDC';
+$validPassword = 'sleeprdc';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   $username = $_POST['username'];
